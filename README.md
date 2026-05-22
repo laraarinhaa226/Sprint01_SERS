@@ -11,7 +11,7 @@ Além disso, o sistema contribui para a previsão de demanda energética, auxili
 **Justificativa**
 A proposta se justifica pela necessidade de modernização e melhoria da gestão e do controle dos eletropostos, que atualmente não possuem um monitoramento eficiente e em tempo real. Isso gera um uso pouco otimizado da energia, além da falta de previsibilidade da demanda e falta de métodos de cobrança inteligentes. Nossa proposta, além de criar uma experiência mais agradável para o usuário final, ainda auxilia entregando mais controle, eficiência e viabilidade de monetização para a empresa e os operadores.
 
-**Impactos esperados**
+**impactos esperados**
 
 **Redução de custos:**
 Por conta da gestão inteligente será possível evitar multas por consumo excessivo, controlando a potência máxima e evitando gastos desnecessários.
